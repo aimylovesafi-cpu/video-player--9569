@@ -1,0 +1,16 @@
+{
+  "name": "Video player ",
+  "short_name": "Video player",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#050507",
+  "theme_color": "#00FF88",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
